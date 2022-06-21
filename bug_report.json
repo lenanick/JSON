@@ -1,13 +1,13 @@
 {
-   "ID": 1,
+   "ID": ,
    "Severity": ,
    "Environment":,
    "Title": ,
    "Precondition":,
    "Steps": ,
-   "Expected result",
+   "Expected result": ,
    "Actual result": ,
-   "Attachments"
+   "Attachments";
    
   
 }
