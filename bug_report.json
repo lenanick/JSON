@@ -1,8 +1,13 @@
 {
-   "ID": ,
-  "Title": ,
-  "Steps": ,
-  "Actual result": ,
-  "Expected result": 
+   "ID": 1,
+   "Severity": ,
+   "Environment":,
+   "Title": ,
+   "Precondition":,
+   "Steps": ,
+   "Expected result",
+   "Actual result": ,
+   "Attachments"
+   
   
 }
